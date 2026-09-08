@@ -1,0 +1,24 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+*.tfvars
+.terraform.lock.hcl
+
+# Maven
+flink-app/target/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# Temporales
+redshift-mv.json
+update-flink-code.json
+mv_sensor_events_live.sql
+delete-batch.json

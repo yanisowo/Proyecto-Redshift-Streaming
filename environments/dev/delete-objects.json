@@ -1,0 +1,825 @@
+﻿{
+    "Objects":  [
+                    {
+                        "Key":  "bronze/ingesta/year=2026/month=09/day=07/dev-firehose-bronze-1-2026-09-07-22-05-58-a7135493-9db4-4eef-a420-b80af442fe4b",
+                        "VersionId":  "APEbKACJDTVckmptJArWZqhYbakvqioQ"
+                    },
+                    {
+                        "Key":  "bronze/ingesta/year=2026/month=09/day=07/dev-firehose-bronze-1-2026-09-07-22-05-59-03cf6609-32f9-4a40-841a-355f9a58d439",
+                        "VersionId":  "0A0H4BGhIIB0oWbJNdGv07pr8KBS.uJ2"
+                    },
+                    {
+                        "Key":  "bronze/ingesta/year=2026/month=09/day=07/dev-firehose-bronze-1-2026-09-07-22-48-16-048d4637-c3d6-4890-9e47-a00c80fe0295",
+                        "VersionId":  "HKP1IqWG4PFKcusFsbY9febEgJoSDxV3"
+                    },
+                    {
+                        "Key":  "bronze/ingesta/year=2026/month=09/day=07/dev-firehose-bronze-1-2026-09-07-22-48-16-08e3a3c2-810e-469b-a766-30236034f945",
+                        "VersionId":  "zTMaEENYZUkm7DLxtS_2kxDh0Ttzxqys"
+                    },
+                    {
+                        "Key":  "bronze/ingesta/year=2026/month=09/day=08/dev-firehose-bronze-1-2026-09-08-12-28-15-c7026b96-6a26-4c9d-a39f-850e064e0e23",
+                        "VersionId":  "5hPvWwLq3Iqua6MrlTkoolnRY.OYbelz"
+                    },
+                    {
+                        "Key":  "bronze/ingesta/year=2026/month=09/day=08/dev-firehose-bronze-1-2026-09-08-12-28-16-2dac8bed-aaf3-4810-bf6f-71752a5ddc8c",
+                        "VersionId":  "5DDkRA8TjhexD4TX9Spl1knr7NqwrS9g"
+                    },
+                    {
+                        "Key":  "flink-artifacts/lakehouse-streaming-job.jar",
+                        "VersionId":  "Qn5sItDCAlqgUwJFXmOwxQGOc15p94w7"
+                    },
+                    {
+                        "Key":  "flink-artifacts/lakehouse-streaming-job.jar",
+                        "VersionId":  "exQfP5XxamGREtFAk21eqa5ukAuCFQcr"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/data/sensor_id_bucket=3/00000-0-f2f6b910-97c8-400e-9603-ec59af4ec27b-00003.parquet",
+                        "VersionId":  "IxvmRtSwfh90t0NKeTK4C.ReOj62.6jj"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/data/sensor_id_bucket=3/00000-0-f2f6b910-97c8-400e-9603-ec59af4ec27b-00006.parquet",
+                        "VersionId":  "3p7t8mGMK19Nxwi_9En6ZCDLdGUnrGUF"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/data/sensor_id_bucket=3/00000-0-f2f6b910-97c8-400e-9603-ec59af4ec27b-00009.parquet",
+                        "VersionId":  "5X7LK0UcS3oqDslRduqCkSqtl5AdaDcr"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/data/sensor_id_bucket=3/00000-1-2921ec99-94ab-4f8e-aba6-faa646e1f7e6-00003.parquet",
+                        "VersionId":  "5Uw_xKvZuKBhWR9JVDweNyQqzdE4u_KM"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/data/sensor_id_bucket=3/00000-1-2921ec99-94ab-4f8e-aba6-faa646e1f7e6-00006.parquet",
+                        "VersionId":  "xrAwfBAOP8eTp7M1efm.ywBckK8rhuYz"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/data/sensor_id_bucket=4/00000-0-f2f6b910-97c8-400e-9603-ec59af4ec27b-00002.parquet",
+                        "VersionId":  "vpMx_eNQbWgpqrWp1DS2GzZYYPnhjI.d"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/data/sensor_id_bucket=4/00000-0-f2f6b910-97c8-400e-9603-ec59af4ec27b-00005.parquet",
+                        "VersionId":  "dOr5xKiCX7AqW5RgyJGEu5lh8AyTpB3."
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/data/sensor_id_bucket=4/00000-0-f2f6b910-97c8-400e-9603-ec59af4ec27b-00007.parquet",
+                        "VersionId":  "ZJ0vQAlv6gFCxp2EIQgnRxow.OSt3aX1"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/data/sensor_id_bucket=4/00000-1-2921ec99-94ab-4f8e-aba6-faa646e1f7e6-00001.parquet",
+                        "VersionId":  "eC9wkYsTtqxs8Dyh8Um4fFyJ7dgbccBF"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/data/sensor_id_bucket=4/00000-1-2921ec99-94ab-4f8e-aba6-faa646e1f7e6-00004.parquet",
+                        "VersionId":  "2uUWrcoMf5L14IRoy65cRF00_ryocZb0"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/data/sensor_id_bucket=7/00000-0-f2f6b910-97c8-400e-9603-ec59af4ec27b-00001.parquet",
+                        "VersionId":  "d5ak2fEu1ZP32eSuZOLHa2zArgwXOX.W"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/data/sensor_id_bucket=7/00000-0-f2f6b910-97c8-400e-9603-ec59af4ec27b-00004.parquet",
+                        "VersionId":  "9c80_p1be.dNKKfIqNzyd1VX9kmjDsuo"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/data/sensor_id_bucket=7/00000-0-f2f6b910-97c8-400e-9603-ec59af4ec27b-00008.parquet",
+                        "VersionId":  "8icpRHvN4FPOIlq.2Re4nF_mIleuZ8mq"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/data/sensor_id_bucket=7/00000-1-2921ec99-94ab-4f8e-aba6-faa646e1f7e6-00002.parquet",
+                        "VersionId":  "tcl1G56l6VBkvTAFnjvNX49Z4mV9eTOu"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/data/sensor_id_bucket=7/00000-1-2921ec99-94ab-4f8e-aba6-faa646e1f7e6-00005.parquet",
+                        "VersionId":  "RToOOdari9Qb3eo4PCSl7ha68PlV64BC"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00000-27ed9e2d-5612-42ce-ba42-0107b22a89ea.metadata.json",
+                        "VersionId":  "imlXbt9VNmA41mlr4PFFsyaiS5fUs.JU"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00001-d05e6ca9-ca12-4c4c-a239-b81dffe4b723.metadata.json",
+                        "VersionId":  "ZynxbAKboKLeMLLtXFsptlzcu7yXM5a6"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00002-5a5a42ab-5085-4dbe-9944-df023bb7db41.metadata.json",
+                        "VersionId":  "x3fS7ogC1J44Pg68SSagAwd0dfBZZq5V"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00003-b3646d57-ff60-418f-859c-30b7aa72fa00.metadata.json",
+                        "VersionId":  "FxkO3wFcUTGW1CYaIHwvtvJZkheIR0DG"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00004-6b303055-c6c7-41e3-b5af-c9fbec8db29a.metadata.json",
+                        "VersionId":  "tcKYFiD9vXIl7cGNuRPPiwDc7kMTzur4"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00005-94212177-d51d-486e-8de7-ed860afef553.metadata.json",
+                        "VersionId":  "IU7sPWQ2Ty4DIpADttEqDmyrqxBcI.D8"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00006-59abccf9-add7-4a28-8221-e371b2a02cb6.metadata.json",
+                        "VersionId":  "Vqc6uS0xIpRroBdlgf_RJWUOu2u45ZDN"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00007-4d8da011-dcf4-465c-92e7-b74f0a335b94.metadata.json",
+                        "VersionId":  "XfoSdl22LJLEyJORPjgmkoFz.ry7SyhK"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00008-9a907b5a-4258-438a-b78a-fad8848c13c0.metadata.json",
+                        "VersionId":  "p7MfyeKn8ivuogJ9Nbm.uz8.PjAzNLa4"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00009-7c4c2b8b-fa19-4867-bb7c-c9abc8513156.metadata.json",
+                        "VersionId":  "JD8ZqxcwHVq4eew6WDzV7g4.hEFm8LPa"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00010-6a750f91-5bf1-4b54-964a-38886886f089.metadata.json",
+                        "VersionId":  "GQn6Fs5f07fkuyky8GVjKQYQm.o2lPsT"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00011-b1cc3410-dafe-40f0-a3b1-8cdb82964f7b.metadata.json",
+                        "VersionId":  "wUdrOHvmZsJCtzqzX3_ujvTaCEd6x1pw"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00012-cd297d0f-8e6f-4b57-ae31-7fb37b8130c0.metadata.json",
+                        "VersionId":  "eLE0tDvwsGs_.8zigj3pS09fTB8s4o86"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00013-f2ecf75c-29da-4475-a2e5-2a953183f8e0.metadata.json",
+                        "VersionId":  "cbqw_HTVoO.4Y4a97ROboMq8TGyFvQYk"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00014-ae1eb789-7515-462b-aaa2-bbaace0524f4.metadata.json",
+                        "VersionId":  "zBpp1vOGshk_1MDCJRTthsvuKqzUKMHZ"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00015-f23f47e9-7df6-4dc4-800f-cfcf5a65bca7.metadata.json",
+                        "VersionId":  "7_VswtOB83X3W2YbRil6XHe4IiEvLWBc"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00016-0af8b06f-966c-4081-a86d-8dc9e3f32f86.metadata.json",
+                        "VersionId":  "dKMlT5Jcs8EYmKNFVrSoJz0Rm2sT2lSl"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00017-4c7c637f-a094-431a-842d-b53d5d635883.metadata.json",
+                        "VersionId":  "9UoAlDXkgRzLRTiaPI1FrGXvfLMb.3D8"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00018-ce860696-a401-4246-9a8b-74d5051650bf.metadata.json",
+                        "VersionId":  "Ttl4au._TdvUbQ5KNxkB7xPT8Nl85VxP"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00019-8e3bf30a-6570-440c-8262-e657b28d3570.metadata.json",
+                        "VersionId":  "qjsBAfWnWrCTroGBDwhGiXAgxdv5Bn_d"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00020-b9d6ca6b-bda7-400d-a971-4d88930a50d3.metadata.json",
+                        "VersionId":  "IZ3dOq5ldD7MyYm1vVh9_G4SfnxBAY6b"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00021-36b4c197-add3-4451-9ee8-f83738086d13.metadata.json",
+                        "VersionId":  "dQnVtoWHqUhtImtkMpUlghS50fHUkfQ_"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00022-8e737e34-d5f2-44af-a052-0bfe36160daf.metadata.json",
+                        "VersionId":  "gKOpZG1LgtGxbpSDdZtpMqQhZNXQGyBV"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00023-d8ec00db-a8ae-49e5-b89f-a636ab701798.metadata.json",
+                        "VersionId":  "BUTi8ZzQ9_hM2_aySVsoo7NsHt1tzCaG"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00024-7791426b-2286-4349-842d-8bb604997d57.metadata.json",
+                        "VersionId":  "kEeAHnEMmUsPF8p8ieBye7hkYKjv3TUv"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00025-ee58455a-bd35-49a5-b8dc-1ae713b2b0c0.metadata.json",
+                        "VersionId":  "k7kICgXj6KiQh5M4AGkfddqGi6jnzPOc"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00026-7235b44d-c457-4750-ba6d-c73f2738f371.metadata.json",
+                        "VersionId":  "aoNlvcF3dVAcN1uyaCzCGCPdb.w56QMe"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00027-599ad34d-0d5c-4827-9072-f73e1faaa873.metadata.json",
+                        "VersionId":  "C5qnNYzKbiH6kCa5poDukXG1dcqhPs_5"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00028-a8eb4f8a-96d6-4195-9d6a-6deb4a5ef533.metadata.json",
+                        "VersionId":  "FlOcA9h6F0Am62IGJjLFUw15Sip8jHfH"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00029-0094e8b9-bf13-4ca3-b719-0e8d3b643e8f.metadata.json",
+                        "VersionId":  ".Q5qf4W5VVGp.aR4Ge6cup3Cgm17jvqC"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00030-7ada3286-2af2-40dd-aeee-bd63b58663cc.metadata.json",
+                        "VersionId":  "A2qH_KhUCkWJSkInkmTABwIgJfxnw.lL"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00031-381fb5fa-529d-4d95-9b42-397f552d0cb5.metadata.json",
+                        "VersionId":  "KOb690UgzobSR0Dy4FquFSvXdHXDgyOw"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00032-3a2453fb-f488-4d01-bdcf-33f445a1bfb0.metadata.json",
+                        "VersionId":  "99EhhUchLRTbWXdBEZd2phxaOl4vGEFT"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00033-e5957365-8d72-4c98-83e2-563913123b6d.metadata.json",
+                        "VersionId":  "8dTPv.Rg5A0bvB.CCUeN3TX8shAlLLCA"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00034-7db9126f-933f-4b3e-9024-080a6998fa90.metadata.json",
+                        "VersionId":  "4uSSEyPULKRELestdy8IYq84VKNZMkXL"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00035-8b6864f6-9f9f-4e82-81db-670a1f2515ff.metadata.json",
+                        "VersionId":  "Y5eldiY8DOP_WY4drCj99w54_584hdpm"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/1900bc36-126c-4678-be7e-9bb12b95b514-m0.avro",
+                        "VersionId":  "kkuApwhvDbiwHca5l6yV6c1uYq_X44JG"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/1af84121-e74c-4d62-b336-d5dfc1fbbc0b-m0.avro",
+                        "VersionId":  ".p1_eEaHFI2VDeF5IUZ9edsdh6RCOlnZ"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/aa49d5ad-6149-48c4-b517-bc1ada9fed60-m0.avro",
+                        "VersionId":  "ao_.top.4spzKzs6r2Q6c1R50mIuBPKp"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/c0ec6e70-9c6d-4df4-9b21-cd057200340e-m0.avro",
+                        "VersionId":  "MjKEtCKs7xiIHtDyZAMMldSElVTzC0mV"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/f6c56830570653e41c81acdff9e04413-8169645948178b87f8ca664b8ebcd2e2-00000-0-48-00001.avro",
+                        "VersionId":  "QyKqEcp6LMB.iF3ZbZxZ.ZLOquUMFf6B"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/f6c56830570653e41c81acdff9e04413-8169645948178b87f8ca664b8ebcd2e2-00000-0-49-00002.avro",
+                        "VersionId":  "5Zb_3nj754mo6NVhqNaHe3qnx7VT4.xn"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/f6c56830570653e41c81acdff9e04413-8169645948178b87f8ca664b8ebcd2e2-00000-0-91-00003.avro",
+                        "VersionId":  "RQIgWeF8_Llily7GEmoeAuRqN_G_ihJB"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/f6c56830570653e41c81acdff9e04413-8169645948178b87f8ca664b8ebcd2e2-00000-1-143-00001.avro",
+                        "VersionId":  "J.c1OdHlGJrbFcxqfqGD1179sk7Vl8AY"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/f6c56830570653e41c81acdff9e04413-8169645948178b87f8ca664b8ebcd2e2-00000-1-144-00002.avro",
+                        "VersionId":  "rAQGgsUc9neivPhXfIfmRk1h6RAUJ2r9"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-1331424618273723187-1-0db5c8f5-ba55-4836-be81-48052276855d.avro",
+                        "VersionId":  "rnaTb.YEGMNBg0okXRuXEP9KwNmFh_Re"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-189384638267203315-1-d7648060-6493-49ae-8c72-ca8aa4a1115b.avro",
+                        "VersionId":  "ahAa989R6Jnl5hs11LtfEA.uUUVpeVGS"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-1998043741851211957-1-91b101cf-a534-407c-99ac-50c7b672c400.avro",
+                        "VersionId":  "MFZgLoI56sidoJNqRuBMJeU_P4APZZQa"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-2565794787712359393-1-73902754-9a62-4489-bc02-19deb3e12ad9.avro",
+                        "VersionId":  "JkRyP6x8DJjX98tlrfFy.kS0UgabKPj0"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-2629160899972388060-1-aa49d5ad-6149-48c4-b517-bc1ada9fed60.avro",
+                        "VersionId":  "yRrdnGA_ORLgXk3KRdsk397hiV0QLW5I"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-2787978169923078355-1-e64f77ad-1e77-4f03-a1e3-31ff98bd38e5.avro",
+                        "VersionId":  "c5g6JlnRlRABLiWDOLUJfKYhKxHeLs_7"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-2830955888134356436-1-ede1f7fb-d160-49df-a3ee-b6ed8b5aa28f.avro",
+                        "VersionId":  "dRVckgoybr7R71ZlKiUO1WJaN3kTf_an"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-4255299162551022146-1-ae69c7fd-e4a2-4d06-8c54-d1ffed8177f6.avro",
+                        "VersionId":  "cIhtslnXzvcNBOJJm9r0OwYR3IcWt..L"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-4328830874101989185-1-dbb869fc-2988-4541-b295-2700eb0890f6.avro",
+                        "VersionId":  "Zwzo0oabcvAwdFmqYJWdB6pWwBRiEdBN"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-4345828342538682581-1-b384af97-8ae6-4657-8d2a-e66ec0297fc9.avro",
+                        "VersionId":  "Dh4PaWq7_16pSy_MGP9rc_kTOcKa2Xkp"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-4491212682082470872-1-9374a4f5-5b5e-4a21-a4e7-82d1ecd8fdbf.avro",
+                        "VersionId":  "AJCTYbkA4M7ZG.Av9c3F4ci4bZXiqD9I"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-4502975626125031483-1-ee152b58-55a6-4870-8df5-cbba62ad36be.avro",
+                        "VersionId":  "y.mg1W1JKZAWY3SVmrcQ_MFwoc1V44GX"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-4903155657085624318-1-2e074705-e1f8-4cda-b380-1cb82ea36ac4.avro",
+                        "VersionId":  "ohn7ez1w79UYO_TsiM5bxem9CiERzHHt"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-4990339638349490568-1-fde387c8-e94c-4356-9d5a-c7b112c98bf3.avro",
+                        "VersionId":  "KirFVdt5O3WZifIoYr4BYCCfDKJrJ2DJ"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-5115434050083377178-1-8f624d6f-5c50-4ae1-b99b-a93e12c6873b.avro",
+                        "VersionId":  "oB0VUeI8WBuSAIBEy3fTVba_Pb_TsEmx"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-5302497692753700341-1-1900bc36-126c-4678-be7e-9bb12b95b514.avro",
+                        "VersionId":  "k9cSJWns2Vy9MkVnj7cYbc2g8pOVS1m0"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-5662559557251196836-1-e5bec671-f622-40cd-ac97-98d3a9034de4.avro",
+                        "VersionId":  "5rh3SOak265l6oviUrOJVCmXx3bKi79k"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-5837495860907649702-1-44932e75-b7a1-4e7d-8a12-eea6a4ba7dc3.avro",
+                        "VersionId":  "0EKNfutFcFAYphMvYCPAcRuwgf7CG6Su"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-5863597096313924167-1-a6843e8b-e066-45b1-a6cf-4fad32078dab.avro",
+                        "VersionId":  "VCsX1Y4R8764TVhyLmi00wrqLg6H_Z0W"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-6194624009608409425-1-cb37dbd8-580e-4b1f-8ee9-02dae8edbd2f.avro",
+                        "VersionId":  "7oNqhhw3U_PCEtnEfWm_mJeo3K9yXR7B"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-640952367312162523-1-51750b71-5907-4f62-ae29-1cb2d906094a.avro",
+                        "VersionId":  "9FMbLKJSpC8ulb.hWIM0G651MEksglWn"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-6523454427985712257-1-a3c9d9a5-7a7c-4832-b776-c09bd9d9a15f.avro",
+                        "VersionId":  "zYd2RGT5dwg7XJggeCZMNMhQfAEpllgi"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-6574776203707790919-1-d26f2d56-d9b1-4316-a147-8761b4835f50.avro",
+                        "VersionId":  "tqOdkEgnsP.Q1ASI5tsnJFxqoUl7__qw"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-6715805062881196001-1-415e19e7-9b95-4cb2-9567-0adfb2490538.avro",
+                        "VersionId":  "0rl1c9vx8IdsAUhsSppwEUSuqoDsX0Q2"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-6928036131284342661-1-98de722c-be5c-4e93-8622-34fe383ea0a1.avro",
+                        "VersionId":  "xXZnFdTun6pwfeh20ZbUpJuZXjpeH6T3"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-7423744045652893944-1-c0ec6e70-9c6d-4df4-9b21-cd057200340e.avro",
+                        "VersionId":  "ZktBA2d_IdQMLyDkyVXE5xYV819G5ZDT"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-7800152409483376343-1-f921dfbc-8564-4fbc-b01a-b2d54f96f9dd.avro",
+                        "VersionId":  "ijMJ4619_JTT8OXgwiVvu5ieChycfpxQ"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-7966006094431853935-1-9d425752-ac42-4c99-98eb-26723c33ee18.avro",
+                        "VersionId":  "oZA9s.ukv2bC80zrH0d0MgyEGs.SQHpc"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-8216436576581923987-1-0e688f27-d6e6-4649-b990-94cfff79aa2c.avro",
+                        "VersionId":  "SNCB91Ggm9OITc47sFJ956tOF8nvfeJd"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-8358585322309311263-1-d46f8f83-9d4d-4b96-8769-b49ae2a5647d.avro",
+                        "VersionId":  "Ln64gtG5lZL0hCYWvsupBaPFVqm9fMlv"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-8368724549325743970-1-1af84121-e74c-4d62-b336-d5dfc1fbbc0b.avro",
+                        "VersionId":  "8bvm6xUhCCQzjxDG9nYIkvu1jG_tU.hj"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-8443340434562869157-1-2fce1718-bd52-4bf1-becf-3baec5ba0bbb.avro",
+                        "VersionId":  "MsgKELaD5w2YHbhB404EkA80SdEkAcGl"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-8909316939201489874-1-656d5ff8-9a87-46be-b6dd-dba6a6690bd7.avro",
+                        "VersionId":  "ucYoXdM4Re5CAL37H.fkKUWBvY9c2x1p"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-9150383564178391669-1-56723b26-4662-4320-bd93-fd97bcf4da7f.avro",
+                        "VersionId":  "_yvGUASMBENTIscmAzurCwhU.jwwnNXu"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-9185799172292495266-1-b5e979bd-e237-4c46-829f-177bc87f3a0b.avro",
+                        "VersionId":  "WGwgSr5e_VnjMUgemcJSlCTO__tNSU6G"
+                    },
+                    {
+                        "Key":  "bronze/ingesta/year=2026/month=09/day=07/dev-firehose-bronze-1-2026-09-07-22-05-58-a7135493-9db4-4eef-a420-b80af442fe4b",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "bronze/ingesta/year=2026/month=09/day=07/dev-firehose-bronze-1-2026-09-07-22-05-59-03cf6609-32f9-4a40-841a-355f9a58d439",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "bronze/ingesta/year=2026/month=09/day=07/dev-firehose-bronze-1-2026-09-07-22-48-16-048d4637-c3d6-4890-9e47-a00c80fe0295",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "bronze/ingesta/year=2026/month=09/day=07/dev-firehose-bronze-1-2026-09-07-22-48-16-08e3a3c2-810e-469b-a766-30236034f945",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "bronze/ingesta/year=2026/month=09/day=08/dev-firehose-bronze-1-2026-09-08-12-28-15-c7026b96-6a26-4c9d-a39f-850e064e0e23",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "bronze/ingesta/year=2026/month=09/day=08/dev-firehose-bronze-1-2026-09-08-12-28-16-2dac8bed-aaf3-4810-bf6f-71752a5ddc8c",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "flink-artifacts/lakehouse-streaming-job.jar",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/data/sensor_id_bucket=3/00000-0-f2f6b910-97c8-400e-9603-ec59af4ec27b-00003.parquet",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/data/sensor_id_bucket=3/00000-0-f2f6b910-97c8-400e-9603-ec59af4ec27b-00006.parquet",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/data/sensor_id_bucket=3/00000-0-f2f6b910-97c8-400e-9603-ec59af4ec27b-00009.parquet",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/data/sensor_id_bucket=3/00000-1-2921ec99-94ab-4f8e-aba6-faa646e1f7e6-00003.parquet",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/data/sensor_id_bucket=3/00000-1-2921ec99-94ab-4f8e-aba6-faa646e1f7e6-00006.parquet",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/data/sensor_id_bucket=4/00000-0-f2f6b910-97c8-400e-9603-ec59af4ec27b-00002.parquet",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/data/sensor_id_bucket=4/00000-0-f2f6b910-97c8-400e-9603-ec59af4ec27b-00005.parquet",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/data/sensor_id_bucket=4/00000-0-f2f6b910-97c8-400e-9603-ec59af4ec27b-00007.parquet",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/data/sensor_id_bucket=4/00000-1-2921ec99-94ab-4f8e-aba6-faa646e1f7e6-00001.parquet",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/data/sensor_id_bucket=4/00000-1-2921ec99-94ab-4f8e-aba6-faa646e1f7e6-00004.parquet",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/data/sensor_id_bucket=7/00000-0-f2f6b910-97c8-400e-9603-ec59af4ec27b-00001.parquet",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/data/sensor_id_bucket=7/00000-0-f2f6b910-97c8-400e-9603-ec59af4ec27b-00004.parquet",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/data/sensor_id_bucket=7/00000-0-f2f6b910-97c8-400e-9603-ec59af4ec27b-00008.parquet",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/data/sensor_id_bucket=7/00000-1-2921ec99-94ab-4f8e-aba6-faa646e1f7e6-00002.parquet",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/data/sensor_id_bucket=7/00000-1-2921ec99-94ab-4f8e-aba6-faa646e1f7e6-00005.parquet",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00000-27ed9e2d-5612-42ce-ba42-0107b22a89ea.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00001-d05e6ca9-ca12-4c4c-a239-b81dffe4b723.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00002-5a5a42ab-5085-4dbe-9944-df023bb7db41.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00003-b3646d57-ff60-418f-859c-30b7aa72fa00.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00004-6b303055-c6c7-41e3-b5af-c9fbec8db29a.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00005-94212177-d51d-486e-8de7-ed860afef553.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00006-59abccf9-add7-4a28-8221-e371b2a02cb6.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00007-4d8da011-dcf4-465c-92e7-b74f0a335b94.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00008-9a907b5a-4258-438a-b78a-fad8848c13c0.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00009-7c4c2b8b-fa19-4867-bb7c-c9abc8513156.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00010-6a750f91-5bf1-4b54-964a-38886886f089.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00011-b1cc3410-dafe-40f0-a3b1-8cdb82964f7b.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00012-cd297d0f-8e6f-4b57-ae31-7fb37b8130c0.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00013-f2ecf75c-29da-4475-a2e5-2a953183f8e0.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00014-ae1eb789-7515-462b-aaa2-bbaace0524f4.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00015-f23f47e9-7df6-4dc4-800f-cfcf5a65bca7.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00016-0af8b06f-966c-4081-a86d-8dc9e3f32f86.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00017-4c7c637f-a094-431a-842d-b53d5d635883.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00018-ce860696-a401-4246-9a8b-74d5051650bf.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00019-8e3bf30a-6570-440c-8262-e657b28d3570.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00020-b9d6ca6b-bda7-400d-a971-4d88930a50d3.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00021-36b4c197-add3-4451-9ee8-f83738086d13.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00022-8e737e34-d5f2-44af-a052-0bfe36160daf.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00023-d8ec00db-a8ae-49e5-b89f-a636ab701798.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00024-7791426b-2286-4349-842d-8bb604997d57.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00025-ee58455a-bd35-49a5-b8dc-1ae713b2b0c0.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00026-7235b44d-c457-4750-ba6d-c73f2738f371.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00027-599ad34d-0d5c-4827-9072-f73e1faaa873.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00028-a8eb4f8a-96d6-4195-9d6a-6deb4a5ef533.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00029-0094e8b9-bf13-4ca3-b719-0e8d3b643e8f.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00030-7ada3286-2af2-40dd-aeee-bd63b58663cc.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00031-381fb5fa-529d-4d95-9b42-397f552d0cb5.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00032-3a2453fb-f488-4d01-bdcf-33f445a1bfb0.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00033-e5957365-8d72-4c98-83e2-563913123b6d.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00034-7db9126f-933f-4b3e-9024-080a6998fa90.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/00035-8b6864f6-9f9f-4e82-81db-670a1f2515ff.metadata.json",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/1900bc36-126c-4678-be7e-9bb12b95b514-m0.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/1af84121-e74c-4d62-b336-d5dfc1fbbc0b-m0.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/aa49d5ad-6149-48c4-b517-bc1ada9fed60-m0.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/c0ec6e70-9c6d-4df4-9b21-cd057200340e-m0.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/f6c56830570653e41c81acdff9e04413-8169645948178b87f8ca664b8ebcd2e2-00000-0-48-00001.avro",
+                        "VersionId":  "ndMH6CWMXJ1lW9nI0w9DXHhq3yoSFRWN"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/f6c56830570653e41c81acdff9e04413-8169645948178b87f8ca664b8ebcd2e2-00000-0-49-00002.avro",
+                        "VersionId":  "MX1F_6HRh48NuBarQYWsVC26MwOl5oPe"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/f6c56830570653e41c81acdff9e04413-8169645948178b87f8ca664b8ebcd2e2-00000-0-91-00003.avro",
+                        "VersionId":  "vXwUb9poOyS_KE5cGtIuyWLQNWV9AUi5"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/f6c56830570653e41c81acdff9e04413-8169645948178b87f8ca664b8ebcd2e2-00000-1-143-00001.avro",
+                        "VersionId":  "1UYa0QO73msbFA5vrNWx6g11kBRKoOFo"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/f6c56830570653e41c81acdff9e04413-8169645948178b87f8ca664b8ebcd2e2-00000-1-144-00002.avro",
+                        "VersionId":  "6fivMvgdPDn69Is_qNRLlAzEi1x_aElM"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-1331424618273723187-1-0db5c8f5-ba55-4836-be81-48052276855d.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-189384638267203315-1-d7648060-6493-49ae-8c72-ca8aa4a1115b.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-1998043741851211957-1-91b101cf-a534-407c-99ac-50c7b672c400.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-2565794787712359393-1-73902754-9a62-4489-bc02-19deb3e12ad9.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-2629160899972388060-1-aa49d5ad-6149-48c4-b517-bc1ada9fed60.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-2787978169923078355-1-e64f77ad-1e77-4f03-a1e3-31ff98bd38e5.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-2830955888134356436-1-ede1f7fb-d160-49df-a3ee-b6ed8b5aa28f.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-4255299162551022146-1-ae69c7fd-e4a2-4d06-8c54-d1ffed8177f6.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-4328830874101989185-1-dbb869fc-2988-4541-b295-2700eb0890f6.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-4345828342538682581-1-b384af97-8ae6-4657-8d2a-e66ec0297fc9.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-4491212682082470872-1-9374a4f5-5b5e-4a21-a4e7-82d1ecd8fdbf.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-4502975626125031483-1-ee152b58-55a6-4870-8df5-cbba62ad36be.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-4903155657085624318-1-2e074705-e1f8-4cda-b380-1cb82ea36ac4.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-4990339638349490568-1-fde387c8-e94c-4356-9d5a-c7b112c98bf3.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-5115434050083377178-1-8f624d6f-5c50-4ae1-b99b-a93e12c6873b.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-5302497692753700341-1-1900bc36-126c-4678-be7e-9bb12b95b514.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-5662559557251196836-1-e5bec671-f622-40cd-ac97-98d3a9034de4.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-5837495860907649702-1-44932e75-b7a1-4e7d-8a12-eea6a4ba7dc3.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-5863597096313924167-1-a6843e8b-e066-45b1-a6cf-4fad32078dab.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-6194624009608409425-1-cb37dbd8-580e-4b1f-8ee9-02dae8edbd2f.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-640952367312162523-1-51750b71-5907-4f62-ae29-1cb2d906094a.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-6523454427985712257-1-a3c9d9a5-7a7c-4832-b776-c09bd9d9a15f.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-6574776203707790919-1-d26f2d56-d9b1-4316-a147-8761b4835f50.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-6715805062881196001-1-415e19e7-9b95-4cb2-9567-0adfb2490538.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-6928036131284342661-1-98de722c-be5c-4e93-8622-34fe383ea0a1.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-7423744045652893944-1-c0ec6e70-9c6d-4df4-9b21-cd057200340e.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-7800152409483376343-1-f921dfbc-8564-4fbc-b01a-b2d54f96f9dd.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-7966006094431853935-1-9d425752-ac42-4c99-98eb-26723c33ee18.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-8216436576581923987-1-0e688f27-d6e6-4649-b990-94cfff79aa2c.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-8358585322309311263-1-d46f8f83-9d4d-4b96-8769-b49ae2a5647d.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-8368724549325743970-1-1af84121-e74c-4d62-b336-d5dfc1fbbc0b.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-8443340434562869157-1-2fce1718-bd52-4bf1-becf-3baec5ba0bbb.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-8909316939201489874-1-656d5ff8-9a87-46be-b6dd-dba6a6690bd7.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-9150383564178391669-1-56723b26-4662-4320-bd93-fd97bcf4da7f.avro",
+                        "VersionId":  "null"
+                    },
+                    {
+                        "Key":  "lakehouse/lakehouse_db.db/sensor_events/metadata/snap-9185799172292495266-1-b5e979bd-e237-4c46-829f-177bc87f3a0b.avro",
+                        "VersionId":  "null"
+                    }
+                ],
+    "Quiet":  true
+}
